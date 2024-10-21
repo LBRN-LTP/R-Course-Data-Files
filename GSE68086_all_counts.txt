@@ -1,4 +1,4 @@
-id	Sample_01	Sample_02	Sample_03	Sample_04	Sample_05	Sample_06	Sample_07	Sample_08	Sample_09	Sample_10	Sample_11	Sample_12	Sample_13	Sample_14	Sample_15	Sample_16	Sample_17	Sample_18
+Gene_ID	Control_01	Control_02	Control_03	Control_04	Control_05	Control_06	Control_07	Control_08	Control_09	Tumor_1	Tumor_2	Tumor_3	Tumor_4	Tumor_5	Tumor_6	Tumor_7	Tumor_8	Tumor_9
 ENSG00000000003	0	0	0	0	0	1	3	0	0	2	0	0	0	0	0	0	0	2
 ENSG00000000419	0	75	0	17	139	0	100	94	190	24	26	156	20	3	17	0	24	14
 ENSG00000000457	17	23	0	0	0	52	17	0	12	0	6	0	6	0	3	0	3	11
